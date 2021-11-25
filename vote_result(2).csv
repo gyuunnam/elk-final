@@ -1,0 +1,25 @@
+candidate,gender,age,region,job,education,married,divorced,has_car,house_type,salary,has_debt,ideology
+java,ifalse,54,경상북도,배우 및 모델,중학교 졸업,ifalse,itrue,itrue,공동 소유,13,itrue,보수주의
+golang,ifalse,57,전라북도,건축 석공 및 목공,대학교 졸업,ifalse,itrue,itrue,자가,96,itrue,현대 자유주의
+python,ifalse,24,세종특별자치시,경기 심판 및 경기 기록원,초등학교 졸업,ifalse,itrue,ifalse,순수 월세,97,ifalse,고전 공화주의
+golang,ifalse,30,광주광역시,과수작물 재배원,대학원 재학,itrue,ifalse,itrue,보증부 월세,13,itrue,사회 자유주의
+golang,ifalse,89,경기도,목제품 제조 관련 종사원,없음,ifalse,itrue,ifalse,전세,81,itrue,고전 공화주의
+dart,ifalse,20,인천광역시,보험 모집인 및 투자 권유 대행인,대안학교 재학,ifalse,ifalse,ifalse,기타,92,ifalse,사회 민주주의
+dart,ifalse,50,충청북도,건설 및 광업 단순 종사원,대안학교 졸업,ifalse,itrue,ifalse,순수 월세,30,ifalse,사회 자유주의
+rust,ifalse,77,제주특별자치도,강구조물 가공원 및 건립원,고등학교 재학,ifalse,ifalse,itrue,기타,56,ifalse,신 자유주의
+python,ifalse,40,경상남도,"공예원 및 귀금속, 보석 세공원",대학원 졸업,ifalse,ifalse,ifalse,자가,86,itrue,보수주의
+java,ifalse,36,경기도,상품 중개인 및 경매사,대안학교 재학,ifalse,ifalse,ifalse,기타,45,ifalse,방임주의
+rust,ifalse,30,경상남도,바텐더,대학원 재학,ifalse,itrue,itrue,보증부 월세,21,itrue,사회주의
+golang,ifalse,52,제주특별자치도,대학 시간 강사,대학교 졸업,ifalse,itrue,itrue,자가,52,ifalse,사회 자유주의
+dart,ifalse,88,서울특별시,기타 법률 전문가,없음,ifalse,ifalse,ifalse,전세,81,itrue,신 자유주의
+dart,ifalse,41,강원도,보험 모집인 및 투자 권유 대행인,대안학교 졸업,ifalse,itrue,itrue,전세,11,itrue,방임주의
+java,ifalse,40,부산광역시,여행 상품 개발자,대학교 졸업,ifalse,itrue,itrue,보증부 월세,23,itrue,방임주의
+rust,ifalse,43,전라북도,위관급 장교,대학교 재학,itrue,ifalse,ifalse,순수 월세,97,itrue,사회 자유주의
+python,ifalse,71,대구광역시,환경미화원 및 재활용품 수거원,고등학교 졸업,itrue,itrue,ifalse,기타,19,itrue,보수주의
+kotlin,ifalse,92,세종특별자치시,통신 및 방송 송출 장비 기사,고등학교 재학,itrue,ifalse,itrue,공동 소유,28,itrue,현대 자유주의
+kotlin,ifalse,19,세종특별자치시,자동차 정비원,대학교 졸업,ifalse,ifalse,itrue,순수 월세,39,itrue,주체사상
+rust,ifalse,71,경상북도,기타 사회복지 관련 종사원,없음,itrue,itrue,itrue,자가,41,ifalse,민주 사회주의
+java,ifalse,81,울산광역시,주방 보조원,대학교 졸업,ifalse,itrue,itrue,보증부 월세,94,itrue,고전 자유주의
+python,ifalse,80,인천광역시,행사 기획자,없음,itrue,ifalse,itrue,전세,16,itrue,주체사상
+java,ifalse,32,인천광역시,점술가 및 민속신앙 종사원,중학교 졸업,itrue,itrue,itrue,기타,48,itrue,고전 공화주의
+dart,ifalse,35,인천광역시,기타 운송장비 정비원,대학교 재학,ifalse,itrue,ifalse,자가,28,ifalse,사회 자유주의
